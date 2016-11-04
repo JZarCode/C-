@@ -1,4 +1,4 @@
-# C-
+# C++
 my C++ projects
 
 To Compile: g++ [filename]  OR  g++ [filename] -o [executable name]
